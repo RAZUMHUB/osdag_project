@@ -1,16 +1,21 @@
-# Osdag Project 
-> A Python-based structural analysis module for calculating and plotting Shear Force Diagrams (SFD) and Bending Moment Diagrams (BMD) from Excel input data. 
- 
-## ?? How to Run 
-1. Clone the repo 
-2. Activate virtual environment 
-3. Run the Python script using `python plot_sfd_bmd.py` 
- 
-## ?? Folder Structure 
-- task_1_sfd_bmd/ 
-|__ sfd_bmd_data.xlsx 
-|__ plot_sfd_bmd.py 
-|__ output_plots/ 
- 
-## ?? Output 
-Generated SFD and BMD plots saved in `output_plots/` 
+Name: Prince Kumar Mandal
+Email: princekumar085167@gmail.com
+Phone: 9102137117
+Institute: Parul University
+
+GitHub Repo: https://github.com/RAZUMHUB/osdag_project
+Video Demo: https://youtu.be/7GIDohsZu0A?si=N6q8XtmETeWYjA0P
+
+Tasks Completed:
+- ✅ Task 1: SFD & BMD plot from Excel using PyPlot
+
+Includes:
+- Excel data (official format)
+- Python script
+- Output plots
+- PDF version of Excel data
+- Demo video
+- Report in DOCX format
+
+Thanks,
+Prince Kumar Mandal
